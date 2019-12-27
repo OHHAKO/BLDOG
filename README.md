@@ -14,5 +14,5 @@ BLDOG은 동물보호소 업무 시 관리자가 이용하는 '동물 기록관�
   <li> 기부 인식 개선을 통한 운영비 확충 </li>
   
 #### 프로젝트 시스템 구조
-![Precoure_mission_step](/img/bldog-system.jpg)
+![bldog system img](/img/bldog-system.jpg)
 
