@@ -17,3 +17,6 @@ BLDOG은 동물보호소 업무 시 관리자가 이용하는 '동물 기록관�
 #### 프로젝트 시스템 구조
 ![bldog system img](/bldog-system.jpg)
 
+| Name | Description | Social |
+| --- | --- | --- |
+| Hako | Java, Back-end, openSource | [![github]](https://github.com/OHHAKO)  |
