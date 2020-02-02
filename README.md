@@ -14,11 +14,11 @@ BLDOG은 동물보호소 업무 시 관리자가 이용하는 '동물 기록관�
   <li> 기부 인식 개선을 통한 운영비 확충 </li>
 </ul>
 
-#### 프로젝트 시스템 구조
+### 프로젝트 시스템 구조
 ![bldog system img](/bldog-system.jpg)
 
 
-#### 팀: 블독주인
+### 팀: 블독주인
 
 | Name | Description | Social |
 | --- | --- | --- |
@@ -27,7 +27,7 @@ BLDOG은 동물보호소 업무 시 관리자가 이용하는 '동물 기록관�
 | 이준영 | Block-Chain 및 AWS 환경 |   |
 | 정동헌 | Block-Chain 및 AWS 환경 |   |
 
-#### Directory 설명
+### Directory 설명
 - SRC\lib\logic.js , SRC\models\org.example.mynetwork.cto , SRC\permissions.acl , SRC\queries.qry
 js, cto, acl, qry 파일을 기반으로 배포가능한 아카이브 파일 tutorial-network@[version].bna 생성.
 - SRC\package.json
