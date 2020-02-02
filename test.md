@@ -11,7 +11,7 @@ List of awesome women developer
 | --- | --- | --- |
 | MiryangJung | Node.js, Html&CSS, Security | [![github]](https://github.com/MiryangJung) [![blog]](https://miryang.dev) [![twitter]](https://twitter.com/MiryangJung) |
 | Daheen Dana Lee | iOS | [![github]](https://github.com/daheenallwhite) [![blog]](https://daheenallwhite.github.io) |
-| Hako | Java, Back-end, openSource | [![github]](https://github.com/OHHAKO) [![handog]](https://github.com/OHHAKO/OHHAKO.github.io/blob/master/img/handog.png) [![twitter]](https://twitter.com/MiryangJung) |
+| Hako | Java, Back-end, openSource | [![github]](https://github.com/OHHAKO) [![handog]](https://raw.githubusercontent.com/OHHAKO/OHHAKO.github.io/master/img/handog.png) [![twitter]](https://twitter.com/MiryangJung) |
 
 
 
