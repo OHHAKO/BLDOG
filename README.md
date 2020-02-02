@@ -18,7 +18,7 @@ BLDOG은 동물보호소 업무 시 관리자가 이용하는 '동물 기록관�
 ![bldog system img](/bldog-system.jpg)
 
 
-### 팀: 블독주인
+### 팀명 블독주인
 
 | Name | Description | Social |
 | --- | --- | --- |
