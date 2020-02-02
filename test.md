@@ -13,7 +13,6 @@ List of awesome women developer
 | Daheen Dana Lee | iOS | [![github]](https://github.com/daheenallwhite) [![blog]](https://daheenallwhite.github.io) |
 | Hako | Java, Back-end, openSource | [![github]](https://github.com/OHHAKO) [![handog]](https://raw.githubusercontent.com/OHHAKO/OHHAKO.github.io/master/img/handog.png) [![twitter]](https://twitter.com/MiryangJung) |
 
-![my logo](https://raw.githubusercontent.com/OHHAKO/OHHAKO.github.io/master/img/handog.png)
 
 # 기여 Contributing
 - 리스트의 이름들은 등록 순으로 되어있습니다.
