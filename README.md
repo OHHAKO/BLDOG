@@ -1,6 +1,14 @@
 # BLDOG
 ### 블록체인을 이용한 동물 기록관리 웹 서비스
 BLDOG은 동물보호소 업무 시 관리자가 이용하는 '동물 기록관리 웹 서비스'입니다.<BR>
+  
+- 프로젝트명 : BLDOG(블록체인을 이용한 동물 보호소 기록관리 웹 서비스)
+- 개발 환경 :  Ubuntu 16.04 LTS, Docker, AWS(EC2)
+- 개발 언어 : TypeScript, JavaScript
+- 개발 도구 : Visual Code, Composer, Yeoman
+- 적용 기술 : Angular6, Hyperledger Fabric(Composer), Rest API, NodeJs, Mongodb, Bootstrap 
+- 담당 분야 :  Web front, back-end
+
 #### 개요
 
 
@@ -26,22 +34,19 @@ BLDOG은 동물보호소 업무 시 관리자가 이용하는 '동물 기록관�
 ### 프로젝트 시스템 구조
 ![bldog system img](/bldog-system.jpg)
 
-프로젝트명 : BLDOG(블록체인을 이용한 동물 보호소 기록관리 웹 서비스)
-개발 환경 :  Ubuntu 16.04 LTS, Docker, AWS(EC2)
-개발 언어 : TypeScript, JavaScript
-개발 도구 : Visual Code, Composer, Yeoman
-적용 기술 : Angular6, Hyperledger Fabric(Composer), Rest API, NodeJs, Mongodb, Bootstrap 
-담당 분야 :  Web front, back-end
+
 
 
 ### 팀 기술 포지션
 
+
+
 | Name | Description | Social |
 | --- | --- | --- |
-| 김하경 | 웹서버 REST API 및 프론트단 퍼블리싱 | [github](https://github.com/OHHAKO)  |
-| 김정문 | 웹페이지 구성 및 DB 연동 |   |
-| 이준영 | Block-Chain 및 AWS 환경 |   |
-| 정동헌 | Block-Chain 및 AWS 환경 |   |
+| hako | 웹서버 REST API 및 프론트단 퍼블리싱 | [github](https://github.com/OHHAKO)  |
+| 김OO | 웹페이지 구성 및 DB 연동 |   |
+| 이OO | Block-Chain 및 AWS 환경 |   |
+| 정OO | Block-Chain 및 AWS 환경 |   |
 
 ### Directory 설명
 - SRC\lib\logic.js , SRC\models\org.example.mynetwork.cto , SRC\permissions.acl , SRC\queries.qry
