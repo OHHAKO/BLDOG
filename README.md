@@ -43,8 +43,8 @@ BLDOG은 동물보호소 업무 시 관리자가 이용하는 '동물 기록관�
 
 | Name | Description | Social |
 | --- | --- | --- |
-| hako | 웹서버 REST API 및 프론트단 퍼블리싱 | [github](https://github.com/OHHAKO)  |
-| 김OO | 웹페이지 구성 및 DB 연동 |   |
+| hako | 웹 서비스 구현 | [github](https://github.com/OHHAKO)  |
+| 김OO | 웹 페이지 UI,UX |   |
 | 이OO | Block-Chain 및 AWS 환경 |   |
 | 정OO | Block-Chain 및 AWS 환경 |   |
 
