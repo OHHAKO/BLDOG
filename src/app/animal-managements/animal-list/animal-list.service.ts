@@ -1,18 +1,16 @@
-import { Injectable } from '@angular/core';
-import { DataService } from 'app/data.service';
-import { Observable } from 'rxjs/Observable';
-import { Pet } from 'app/org.example.mynetwork';
-import 'rxjs/Rx';
+import { Injectable } from "@angular/core";
+import { DataService } from "app/data.service";
+import { Observable } from "rxjs/Observable";
+import { Pet } from "app/org.example.mynetwork";
+import "rxjs/Rx";
 
 // Can be injected into a constructor
 //animal-list.compo에서 생성자 인자로 받아지며 여기 내 함수들이 많이 쓰인다.
 @Injectable()
 export class AnimalListService {
+  private NAMESPACE = "Pet";
 
-  private NAMESPACE = 'Pet';
-
-  constructor(private dataService: DataService<Pet>) {
-  };
+  constructor(private dataService: DataService<Pet>) {}
 
   public getAll(): Observable<Pet[]> {
     return this.dataService.getAll(this.NAMESPACE);
@@ -34,13 +32,11 @@ export class AnimalListService {
     return this.dataService.delete(this.NAMESPACE, id);
   }
 
-  public getAllByShelter(shelterId: any): Observable<Pet[]>{
-    //shelterId='AAA';
+  public getAllByShelter(shelterId: any): Observable<Pet[]> {
     return this.dataService.getAllByShelter(shelterId);
   }
 
-  public getAllByStatusProtect(shelterId: any): Observable<Pet[]>{
+  public getAllByStatusProtect(shelterId: any): Observable<Pet[]> {
     return this.dataService.getAllByStatusProtect(shelterId);
   }
-
 }
