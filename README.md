@@ -90,6 +90,8 @@ export class DataService<Type> {
 }
 ```
 
+<br>
+
 - DataService 호출 모듈
 - 각 타입에 따라 DataService 모듈을 호출하는 서비스를 작성한다.
 - 해당 모듈은 Pet 타입 데이터 호출
@@ -108,6 +110,8 @@ export class AdoptedAnimalService {
 }
 ```
 
+<br>
+
 - 타입에 따른 DataService를 호출하는 컴포넌트
 
 타입 DataService 호출
@@ -115,6 +119,8 @@ export class AdoptedAnimalService {
 ```typescript
 import { AdoptedAnimalService } from "./adoptedanimal.service";
 ```
+
+<br>
 
 컴포넌트 providers에 타입 DataService 설정
 
@@ -124,11 +130,15 @@ import { AdoptedAnimalService } from "./adoptedanimal.service";
 })
 ```
 
+<br>
+
 컴포넌트 생성자에 호출변수 설정
 
 ```typescript
 constructor(public servicePet: AdoptedAnimalService)
 ```
+
+<br>
 
 DataService 호출 메서드
 
@@ -213,7 +223,3 @@ Rest API는 앱에서 http 비동기식으로 Database 데이터를 호출했고
   블록체인 model 코드
 - SRC\bldog-app\src\app\org.hyperledger.composer.system.ts
   블록체인과 웹 애플리케이션 연동 정보 -->
-
-```
-
-```
